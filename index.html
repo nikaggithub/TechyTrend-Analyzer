@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>TechyTrend Analyzer</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #cbc2c2;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .gradient-header {
+      background: linear-gradient(135deg, #0d6efd, #6610f2);
+      color: rgb(252, 231, 231);
+      padding: 30px;
+      border-radius: 16px;
+      margin-bottom: 30px;
+      text-align: center;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    }
+    .card {
+      border: none;
+      border-radius: 16px;
+      transition: transform 0.2s ease;
+      box-shadow: 0 5px 18px rgba(0, 0, 0, 0.06);
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .form-select, .btn {
+      border-radius: 12px;
+    }
+    .btn-primary {
+      background-color: #1270fc;
+      border: none;
+    }
+    .btn-primary:hover {
+      background-color: #1366e3;
+    }
+    .section-title {
+      font-weight: 600;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container my-4">
+
+    <div class="gradient-header">
+      <h2 class="mb-1">📊 TechyTrend Analyzer</h2>
+      <p class="mb-0">Visualize, Forecast & Track Programming Language Trends</p>
+    </div>
+
+    <form method="POST" class="card p-4 mb-4">
+      <label class="form-label fw-bold">🎯 Select Programming Languages:</label>
+      <select name="languages" class="form-select" multiple size="12" style="height: 280px; overflow-y: scroll;">
+        {% for lang in languages %}
+          <option value="{{ lang }}" {% if lang in selected_langs %}selected{% endif %}>{{ lang }}</option>
+        {% endfor %}
+      </select>
+      <div class="text-end mt-3">
+        <button type="submit" class="btn btn-primary">Update Chart</button>
+      </div>
+    </form>
+
+    <div class="card p-4 mb-4">
+      <h4 class="section-title">📈 Popularity Over Time</h4>
+      {{ plot|safe }}
+    </div>
+
+    <div class="card p-4 mb-4">
+      <h4 class="section-title">🚀 Top 10 Languages in 2025 (Predicted)</h4>
+      {{ top10|safe }}
+    </div>
+
+    <div class="card p-4 mb-4">
+      <h4 class="section-title">📱 GitHub Live Trending Languages</h4>
+      <p>Get real-time GitHub repo stats for the last 30 days.</p>
+      <a href="{{ url_for('github_live') }}" class="btn btn-success">🔎 View GitHub Live Trends</a>
+    </div>
+
+    <div class="text-center mt-4">
+      <a href="/analytics" class="btn btn-outline-dark">📊 Go to Analytics</a>
+    </div>
+
+  </div>
+
+</body>
+</html>

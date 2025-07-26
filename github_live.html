@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>🔥 GitHub Trending Languages</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #e7fb8c;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 30px;
+    }
+    .card {
+      border-radius: 15px;
+      box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+    }
+    table {
+      background: rgb(243, 159, 159);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    }
+    th {
+      background-color: #007bff;
+      color: white;
+    }
+    .refresh-btn {
+      display: block;
+      margin: 0 auto 20px auto;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2 class="text-center mb-2">🔥 GitHub Trending Languages (Last 30 Days)</h2>
+  <p class="text-center text-muted mb-4">⏱️ Fetched live at: {{ updated_at }}</p>
+  <div class="text-end mb-3">
+  <a href="/download-github-csv" class="btn btn-success">📁 Download CSV</a>
+</div>
+
+
+  <form method="GET" action="/github-live">
+    <button type="submit" class="btn btn-outline-primary refresh-btn">🔄 Refresh Live Data</button>
+  </form>
+
+  <div class="card p-4">
+    <table class="table table-striped table-bordered">
+      <thead>
+        <tr>
+          <th>Language</th>
+          <th>Repositories Created</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for item in data %}
+        <tr>
+          <td>{{ item.language }}</td>
+          <td>{{ item.repo_count }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+</body>
+</html>

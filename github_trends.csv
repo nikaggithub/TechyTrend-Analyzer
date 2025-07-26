@@ -1,0 +1,141 @@
+Language,Repository,Stars,Description,Time
+Python,QwenLM/Qwen3-Coder,0,"Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",2025-07-26 10:34:05
+Python,OpenBB-finance/OpenBB,0,"Investment Research for Everyone, Everywhere.",2025-07-26 10:34:05
+Python,frappe/hrms,0,Open Source HR and Payroll Software,2025-07-26 10:34:05
+Python,pytorch/vision,0,"Datasets, Transforms and Models specific to Computer Vision",2025-07-26 10:34:05
+Python,QwenLM/Qwen3,0,"Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",2025-07-26 10:34:05
+Javascript,FortAwesome/Font-Awesome,0,"The iconic SVG, font, and CSS toolkit",2025-07-26 10:34:07
+Javascript,HumanSignal/label-studio,0,Label Studio is a multi-type data labeling and annotation tool with standardized output format,2025-07-26 10:34:07
+Javascript,louislam/uptime-kuma,0,A fancy self-hosted monitoring tool,2025-07-26 10:34:07
+Javascript,sampotts/plyr,0,"A simple HTML5, YouTube and Vimeo player",2025-07-26 10:34:07
+Javascript,f/awesome-chatgpt-prompts,0,This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.,2025-07-26 10:34:07
+Java,SeleniumHQ/selenium,0,A browser automation framework and ecosystem.,2025-07-26 10:34:09
+Java,spring-projects/spring-boot,0,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",2025-07-26 10:34:09
+Java,kestra-io/kestra,0,"⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...",2025-07-26 10:34:09
+Java,nayuki/QR-Code-generator,0,"High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",2025-07-26 10:34:09
+Java,quarkusio/quarkus,0,Quarkus: Supersonic Subatomic Java.,2025-07-26 10:34:09
+C,zephyrproject-rtos/zephyr,0,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",2025-07-26 10:34:11
+C,arthenica/ffmpeg-kit,0,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",2025-07-26 10:34:11
+C,confluentinc/librdkafka,0,The Apache Kafka C/C++ library,2025-07-26 10:34:11
+C,lvgl/lvgl,0,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",2025-07-26 10:34:11
+C,espressif/esp-idf,0,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,2025-07-26 10:34:11
+C++,firebase/firebase-ios-sdk,0,Firebase SDK for Apple App Development,2025-07-26 10:34:13
+C++,ClickHouse/ClickHouse,0,ClickHouse® is a real-time analytics database management system,2025-07-26 10:34:13
+C++,ikawrakow/ik_llama.cpp,0,llama.cpp fork with additional SOTA quants and improved performance,2025-07-26 10:34:13
+C++,protocolbuffers/protobuf,0,Protocol Buffers - Google's data interchange format,2025-07-26 10:34:13
+C++,dmlc/xgboost,0,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",2025-07-26 10:34:13
+C#,zephyrproject-rtos/zephyr,0,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",2025-07-26 10:34:18
+C#,arthenica/ffmpeg-kit,0,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",2025-07-26 10:34:18
+C#,confluentinc/librdkafka,0,The Apache Kafka C/C++ library,2025-07-26 10:34:18
+C#,lvgl/lvgl,0,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",2025-07-26 10:34:18
+C#,espressif/esp-idf,0,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,2025-07-26 10:34:18
+Go,m1k1o/neko,0,A self hosted virtual browser that runs in docker and uses WebRTC.,2025-07-26 10:34:20
+Go,aaPanel/BillionMail,0,"BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",2025-07-26 10:34:20
+Go,moby/moby,0,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,2025-07-26 10:34:20
+Go,kubevirt/kubevirt,0,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.,2025-07-26 10:34:20
+Go,argoproj/argo-cd,0,Declarative Continuous Deployment for Kubernetes,2025-07-26 10:34:20
+Typescript,software-mansion/react-native-reanimated,0,React Native's Animated library reimplemented,2025-07-26 10:34:21
+Typescript,srbhr/Resume-Matcher,0,"Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",2025-07-26 10:34:21
+Typescript,EvolutionAPI/evolution-api,0,Evolution API is an open-source WhatsApp integration API,2025-07-26 10:34:21
+Typescript,activepieces/activepieces,0,AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents,2025-07-26 10:34:21
+Typescript,aws/aws-toolkit-vscode,0,"Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources",2025-07-26 10:34:21
+Ruby,opf/openproject,0,OpenProject is the leading open source project management software.,2025-07-26 10:34:23
+Ruby,dependabot/dependabot-core,0,🤖 Dependabot's core logic for creating update PRs.,2025-07-26 10:34:23
+Ruby,Homebrew/homebrew-core,0,🍻 Default formulae for the missing package manager for macOS (or Linux),2025-07-26 10:34:23
+Ruby,Cute-Dress/Dress,0,好耶 是女装 | 备份·接受PR,2025-07-26 10:34:23
+Ruby,spree/spree,0,"An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",2025-07-26 10:34:23
+Php,mautic/mautic,0,Mautic: Open Source Marketing Automation Software.,2025-07-26 10:34:25
+Php,shlinkio/shlink,0,The definitive self-hosted URL shortener,2025-07-26 10:34:25
+Php,PHPOffice/PhpSpreadsheet,0,A pure PHP library for reading and writing spreadsheet files,2025-07-26 10:34:25
+Php,WordPress/wordpress-develop,0,"WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",2025-07-26 10:34:25
+Php,cedar2025/Xboard,0,High-performance panel based on V2board secondary development supporting new protocols and new features,2025-07-26 10:34:25
+Swift,farzaa/freewrite,0,No description,2025-07-26 10:34:27
+Swift,pointfreeco/swift-composable-architecture,0,"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",2025-07-26 10:34:27
+Swift,Alamofire/Alamofire,0,Elegant HTTP Networking in Swift,2025-07-26 10:34:27
+Swift,airbnb/lottie-ios,0,An iOS library to natively render After Effects vector animations,2025-07-26 10:34:27
+Swift,tuist/tuist,0,A virtual platform team for mobile devs who ship,2025-07-26 10:34:27
+Kotlin,signalapp/Signal-Android,0,A private messenger for Android.,2025-07-26 10:34:29
+Kotlin,home-assistant/android,0,Home Assistant Companion for Android,2025-07-26 10:34:29
+Kotlin,chsbuffer/ReVancedXposed,0,"ReVanced LSPosed module. YouTube & YT Music Remove ads, Background playback",2025-07-26 10:34:29
+Kotlin,parallelcc/MiCTS,0,Trigger Circle to Search on any Android 9–15 device,2025-07-26 10:34:29
+Kotlin,T8RIN/ImageToolbox,0,"🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",2025-07-26 10:34:29
+Rust,juspay/hyperswitch,0,"An open source payments switch written in Rust to make payments fast, reliable and affordable",2025-07-26 10:34:31
+Rust,tensorzero/tensorzero,0,"TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",2025-07-26 10:34:31
+Rust,block/goose,0,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",2025-07-26 10:34:31
+Rust,EFForg/rayhunter,0,Rust tool to detect cell site simulators on an orbic mobile hotspot,2025-07-26 10:34:31
+Rust,astral-sh/ruff,0,"An extremely fast Python linter and code formatter, written in Rust.",2025-07-26 10:34:31
+Dart,academind/flutter-complete-guide-course-resources,0,Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).,2025-07-26 10:34:32
+Dart,firebase/flutterfire,0,🔥 A collection of Firebase plugins for Flutter apps.,2025-07-26 10:34:32
+Dart,felangel/bloc,0,A predictable state management library that helps implement the BLoC design pattern,2025-07-26 10:34:32
+Dart,flutter/samples,0,A collection of Flutter examples and demos,2025-07-26 10:34:32
+Dart,getsentry/sentry-dart,0,Sentry SDK for Dart and Flutter,2025-07-26 10:34:32
+Scala,delta-io/delta,0,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",2025-07-26 10:34:35
+Scala,joernio/joern,0,Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc,2025-07-26 10:34:35
+Scala,apache/incubator-gluten,0,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,2025-07-26 10:34:35
+Scala,TheHive-Project/TheHive,0,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",2025-07-26 10:34:35
+Scala,twitter/the-algorithm,0,Source code for Twitter's Recommendation Algorithm,2025-07-26 10:34:35
+Perl,brendangregg/FlameGraph,0,Stack trace visualizer,2025-07-26 10:34:36
+Perl,linux-test-project/lcov,0,LCOV,2025-07-26 10:34:36
+Perl,glpi-project/glpi-agent,0,GLPI Agent,2025-07-26 10:34:36
+Perl,ocpi/ocpi,0,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",2025-07-26 10:34:36
+Perl,yaml/yaml-test-suite,0,"Comprehensive, language independent Test Suite for YAML",2025-07-26 10:34:36
+Lua,apache/apisix,0,The Cloud-Native API Gateway and AI Gateway,2025-07-26 10:34:38
+Lua,opentibiabr/canary,0,Canary Server 14.x for OpenTibia community.,2025-07-26 10:34:38
+Lua,Kong/kong,0,🦍 The Cloud-Native API Gateway and AI Gateway.,2025-07-26 10:34:38
+Lua,jdhao/nvim-config,0,"A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",2025-07-26 10:34:38
+Lua,rebelot/kanagawa.nvim,0,NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.,2025-07-26 10:34:38
+Haskell,hadolint/hadolint,0,"Dockerfile linter, validate inline bash, written in Haskell",2025-07-26 10:34:40
+Haskell,koalaman/shellcheck,0,"ShellCheck, a static analysis tool for shell scripts",2025-07-26 10:34:40
+Haskell,jgm/pandoc,0,Universal markup converter,2025-07-26 10:34:40
+Haskell,IntersectMBO/plutus,0,The Plutus language implementation and tools,2025-07-26 10:34:40
+Haskell,IntersectMBO/cardano-node,0,The core component that is used to participate in a Cardano decentralised blockchain.,2025-07-26 10:34:40
+Elixir,teslamate-org/teslamate,0,A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld],2025-07-26 10:34:42
+Elixir,phoenixframework/phoenix,0,Peace of mind from prototype to production,2025-07-26 10:34:42
+Elixir,elixir-lang/elixir,0,"Elixir is a dynamic, functional language for building scalable and maintainable applications",2025-07-26 10:34:42
+Elixir,plausible/analytics,0,"Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",2025-07-26 10:34:42
+Elixir,anoma/anoma,0,Reference implementation of Anoma,2025-07-26 10:34:42
+Clojure,metabase/metabase,0,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊,2025-07-26 10:34:43
+Clojure,cognitect-labs/test-runner,0,A test runner for clojure.test,2025-07-26 10:34:43
+Clojure,logseq/logseq,0,"A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",2025-07-26 10:34:43
+Clojure,clj-kondo/clj-kondo,0,Static analyzer and linter for Clojure code that sparks joy,2025-07-26 10:34:43
+Clojure,penpot/penpot,0,Penpot: The open-source design tool for design and code collaboration,2025-07-26 10:34:43
+Shell,nvm-sh/nvm,0,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,2025-07-26 10:34:45
+Shell,bats-core/bats-core,0,Bash Automated Testing System,2025-07-26 10:34:45
+Shell,yuaotian/go-cursor-help,0,解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.,2025-07-26 10:34:45
+Shell,rockerBOO/awesome-neovim,0,Collections of awesome neovim plugins.,2025-07-26 10:34:45
+Shell,bitnami/containers,0,Bitnami container images,2025-07-26 10:34:45
+Powershell,Raphire/Win11Debloat,0,"A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",2025-07-26 10:34:47
+Powershell,microsoft/Agents,0,"The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",2025-07-26 10:34:47
+Powershell,microsoft/winget-pkgs,0,The Microsoft community Windows Package Manager manifest repository,2025-07-26 10:34:47
+Powershell,cisagov/ScubaGear,0,Automation to assess the state of your M365 tenant against CISA's baselines,2025-07-26 10:34:47
+Powershell,ScoopInstaller/Main,0,📦 The default bucket for Scoop.,2025-07-26 10:34:47
+R,satijalab/seurat,0,R toolkit for single cell genomics,2025-07-26 10:34:49
+R,rdpeng/ProgrammingAssignment2,0,Repository for Programming Assignment 2 for R Programming on Coursera,2025-07-26 10:34:49
+R,jokergoo/ComplexHeatmap,0,Make Complex Heatmaps,2025-07-26 10:34:49
+R,rstudio/renv,0,renv: Project environments for R.,2025-07-26 10:34:49
+R,kassambara/ggpubr,0,'ggplot2' Based Publication Ready Plots,2025-07-26 10:34:49
+Matlab,mathworks/MATLAB-Simulink-Challenge-Project-Hub,0,This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.,2025-07-26 10:34:50
+Matlab,fieldtrip/fieldtrip,0,"The MATLAB toolbox for MEG, EEG and iEEG analysis",2025-07-26 10:34:50
+Matlab,ThomasYeoLab/CBIG,0,No description,2025-07-26 10:34:50
+Matlab,TadasBaltrusaitis/OpenFace,0,"OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",2025-07-26 10:34:50
+Matlab,spm/spm,0,SPM (Statistical Parametric Mapping) - Development Version,2025-07-26 10:34:50
+Julia,JuliaLang/julia,0,The Julia Programming Language,2025-07-26 10:34:52
+Julia,JuliaRegistries/General,0,The official registry of general Julia packages,2025-07-26 10:34:52
+Julia,JuliaLang/Pkg.jl,0,Pkg - Package manager for the Julia programming language,2025-07-26 10:34:52
+Julia,CliMA/ClimaCoupler.jl,0,"ClimaCoupler: bringing atmosphere, land, and ocean together",2025-07-26 10:34:52
+Julia,macroenergy/MacroEnergy.jl,0,Macro allows you to optimize the design and operations of large multi-sector energy systems.,2025-07-26 10:34:52
+Groovy,apache/doris,0,"Apache Doris is an easy-to-use, high performance and unified analytics database.",2025-07-26 10:34:54
+Groovy,bregman-arie/devops-resources,0,"DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",2025-07-26 10:34:54
+Groovy,gradle/gradle,0,"Adaptable, fast automation for all",2025-07-26 10:34:54
+Groovy,nextflow-io/nextflow,0,A DSL for data-driven computational pipelines,2025-07-26 10:34:54
+Groovy,google/protobuf-gradle-plugin,0,Protobuf Plugin for Gradle,2025-07-26 10:34:54
+Objective-C,sparkle-project/Sparkle,0,A software update framework for macOS,2025-07-26 10:34:56
+Objective-C,CocoaLumberjack/CocoaLumberjack,0,"A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",2025-07-26 10:34:56
+Objective-C,realm/realm-swift,0,Realm is a mobile database: a replacement for Core Data & SQLite,2025-07-26 10:34:56
+Objective-C,adjust/ios_sdk,0,This is the iOS SDK of,2025-07-26 10:34:56
+Objective-C,SDWebImage/SDWebImage,0,Asynchronous image downloader with cache support as a UIImageView category,2025-07-26 10:34:56
+Assembly,ROCm/rocm-libraries,0,monorepo for rocm libraries,2025-07-26 10:34:59
+Assembly,openhwgroup/cva6,0,"The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",2025-07-26 10:34:59
+Assembly,ROCm/MIOpen,0,AMD's Machine Intelligence Library,2025-07-26 10:34:59
+Assembly,aws/aws-lc,0,AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.,2025-07-26 10:34:59
+Assembly,apple/swift-nio-ssl,0,"TLS Support for SwiftNIO, based on BoringSSL.",2025-07-26 10:34:59
